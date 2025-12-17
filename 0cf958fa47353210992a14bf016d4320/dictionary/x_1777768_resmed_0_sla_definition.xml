@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="5959853e47b93210992a14bf016d43d3" extends="contract_sla" label="SLA Definition" max_length="40" name="x_1777768_resmed_0_sla_definition" type="collection"/>
+</database>

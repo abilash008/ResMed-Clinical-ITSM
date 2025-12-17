@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b5d9dd3e473d3210992a14bf016d4321" label="Catalog Request Item" max_length="40" name="x_1777768_resmed_0_catalog_request_item" type="collection">
+        <element label="Cost Center" max_length="32" name="cost_center" reference="cmn_cost_center" type="reference"/>
+        <element choice="1" label="Item Category" max_length="40" name="item_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Maintenance" sequence="2" value="maintenance"/>
+                <element inactive_on_update="false" label="Hardware Request" sequence="0" value="hardware_request"/>
+                <element inactive_on_update="false" label="Access Request" sequence="1" value="access_request"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Item Name" max_length="40" name="item_name" type="string"/>
+        <element label="Approval Group" max_length="32" name="approval_group" reference="sys_user_group" type="reference"/>
+        <element label="Requires Approval" max_length="40" name="requires_approval" type="boolean"/>
+        <element label="Estimated Fulfillment (days)" max_length="40" name="estimated_fulfillment_days" type="integer"/>
+        <element label="Hospital Specific" max_length="40" name="hospital_specific" type="boolean"/>
+        <index name="index">
+            <element name="approval_group"/>
+        </index>
+        <index name="index2">
+            <element name="cost_center"/>
+        </index>
+    </element>
+</database>

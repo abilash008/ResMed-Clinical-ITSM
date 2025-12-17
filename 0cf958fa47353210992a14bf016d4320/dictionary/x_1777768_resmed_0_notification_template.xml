@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d15c11b2477d3210992a14bf016d4362" label="Notification Template" max_length="40" name="x_1777768_resmed_0_notification_template" type="collection">
+        <element label="Include Device Details" max_length="40" name="include_device_details" type="boolean"/>
+        <element label="Subject Line" max_length="400" name="subject_line" type="string"/>
+        <element label="Event Trigger" max_length="200" name="event_trigger" type="string"/>
+        <element choice="1" label="Template Type" max_length="40" name="template_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Change" sequence="2" value="change"/>
+                <element inactive_on_update="false" label="Problem" sequence="1" value="problem"/>
+                <element inactive_on_update="false" label="Incident" sequence="0" value="incident"/>
+            </choice>
+        </element>
+        <element label="Body Content" max_length="65536" name="body_content" type="html"/>
+        <element label="Template Name" max_length="40" name="template_name" type="string"/>
+        <element choice="1" label="Recipient Type" max_length="40" name="recipient_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Manager" sequence="2" value="manager"/>
+                <element inactive_on_update="false" label="Hospital" sequence="1" value="hospital"/>
+                <element inactive_on_update="false" label="Team" sequence="0" value="team"/>
+            </choice>
+        </element>
+    </element>
+</database>

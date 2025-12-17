@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5ab1c53e47793210992a14bf016d431e" label="Clinical Device" max_length="40" name="x_1777768_resmed_0_clinical_device" type="collection">
+        <element label="Device Type" max_length="100" name="device_type" type="string"/>
+        <element label="Hospital" max_length="32" name="hospital" reference="x_1777768_resmed_0_hospital" type="reference"/>
+        <element label="Device Name" max_length="100" name="device_name" type="string"/>
+        <element label="Model Number" max_length="40" name="model_number" type="string"/>
+        <element label="Monitoring System ID" max_length="40" name="monitoring_system_id" type="string"/>
+        <element choice="1" label="Support Status" max_length="40" name="support_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Depricated" sequence="2" value="depricated"/>
+                <element inactive_on_update="false" label="Under Maintenance" sequence="1" value="under_maintenance"/>
+                <element inactive_on_update="false" label="Active" sequence="0" value="active"/>
+            </choice>
+        </element>
+        <element label="Firmware Version" max_length="40" name="firmware_version" type="string"/>
+        <element label="Serial Number" max_length="50" name="serial_number" type="string"/>
+        <element label="Last Maintenance Date" max_length="40" name="last_maintenance_date" type="glide_date"/>
+        <index name="index">
+            <element name="hospital"/>
+        </index>
+    </element>
+</database>

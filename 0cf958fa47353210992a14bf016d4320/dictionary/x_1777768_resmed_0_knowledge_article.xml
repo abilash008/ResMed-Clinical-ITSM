@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="54d2d5be47f93210992a14bf016d436a" extends="kb_knowledge" label="Knowledge Article" max_length="40" name="x_1777768_resmed_0_knowledge_article" type="collection">
+        <element label="Related Incidents" max_length="1024" name="related_incidents" reference="x_1777768_resmed_0_clinical_incident" type="glide_list"/>
+        <element label="Compliance Reference" max_length="40" name="compliance_reference" type="string"/>
+        <element label="Device Type" max_length="32" name="device_type" reference="x_1777768_resmed_0_clinical_device" type="reference"/>
+        <element choice="1" label="Clnical Relevance" max_length="40" name="clnical_relevance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Clitical" sequence="0" value="clitical"/>
+                <element inactive_on_update="false" label="Important" sequence="1" value="important"/>
+                <element inactive_on_update="false" label="Informational" sequence="2" value="informational"/>
+            </choice>
+        </element>
+        <element label="Troubleshooting Steps" max_length="40" name="troubleshooting_steps" type="html"/>
+        <element label="Applicable Firmware Versions" max_length="400" name="applicable_firmware_versions" type="string"/>
+        <index name="index">
+            <element name="device_type"/>
+        </index>
+    </element>
+</database>

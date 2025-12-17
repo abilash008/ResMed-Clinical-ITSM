@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3857f0b647393210992a14bf016d4322" extends="task" label="Clinical Problem" max_length="40" name="x_1777768_resmed_0_problem" type="collection">
+        <element display="true" label="Root Cause Device Type" max_length="40" name="root_cause_device_type" type="string"/>
+        <element choice="1" label="Compliance Impact" max_length="40" name="compliance_impact" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Minor" sequence="1" value="minor"/>
+                <element inactive_on_update="false" label="Major" sequence="0" value="major"/>
+            </choice>
+        </element>
+        <element label="Known Error Documented" max_length="40" name="known_error_documented" type="boolean"/>
+        <element label="Affected Device Count" max_length="40" name="affected_device_count" type="integer"/>
+    </element>
+</database>

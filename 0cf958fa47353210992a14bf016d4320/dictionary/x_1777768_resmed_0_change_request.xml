@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="651bfcbe47393210992a14bf016d430e" extends="task" label="Change Request" max_length="40" name="x_1777768_resmed_0_change_request" type="collection">
+        <element label="Affected Devices" max_length="40" name="affected_devices" type="string"/>
+        <element label="Roll Back Plan" max_length="400" name="roll_back_plan" type="string"/>
+        <element choice="1" label="Change Category" max_length="40" name="change_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Firmware" sequence="1" value="firmware"/>
+                <element inactive_on_update="false" label="Hardware" sequence="3" value="hardware"/>
+                <element inactive_on_update="false" label="Software" sequence="2" value="software"/>
+                <element inactive_on_update="false" label="Network" sequence="0" value="network"/>
+            </choice>
+        </element>
+        <element label="Blackout Window" max_length="40" name="blackout_window" type="glide_date_time"/>
+        <element label="Compliance Review Required" max_length="40" name="compliance_review_required" type="boolean"/>
+    </element>
+</database>

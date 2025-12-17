@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="57cdf83647793210992a14bf016d4383" label="Hospital" max_length="40" name="x_1777768_resmed_0_hospital" type="collection">
+        <element label="Hospital ID" max_length="50" name="hospital_id" type="string"/>
+        <element label="Hospital Name" max_length="100" name="hospital_name" type="string"/>
+        <element label="SLA Response Time (mins)" max_length="40" name="sla_response_time_mins" type="integer"/>
+        <element label="Device Count" max_length="40" name="device_count" type="integer"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element choice="1" label="Contract Type" max_length="40" name="contract_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Basic" sequence="2" value="basic"/>
+                <element inactive_on_update="false" label="Standard" sequence="1" value="standard"/>
+                <element inactive_on_update="false" label="Premium" sequence="0" value="premium"/>
+            </choice>
+        </element>
+        <element label="Is Critical Facility" max_length="40" name="is_critical_facility" type="boolean"/>
+        <element label="Support Group" max_length="32" name="support_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="support_group"/>
+        </index>
+    </element>
+</database>

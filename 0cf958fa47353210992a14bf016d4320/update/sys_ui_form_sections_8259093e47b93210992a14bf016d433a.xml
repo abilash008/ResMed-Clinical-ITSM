@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8259093e47b93210992a14bf016d433a" sys_domain="global" table="x_1777768_resmed_0_sla_definition" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4259093e47b93210992a14bf016d4368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_sla_definition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d433a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d4347</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c259093e47b93210992a14bf016d4387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_sla_definition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d433a</sys_ui_form>
+            <sys_ui_section caption="Start Condition" display_value="Start Condition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">c259093e47b93210992a14bf016d4379</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca59093e47b93210992a14bf016d4346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_sla_definition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d433a</sys_ui_form>
+            <sys_ui_section caption="Pause Condition" display_value="Pause Condition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d433e</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0e59093e47b93210992a14bf016d4378</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_sla_definition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d433a</sys_ui_form>
+            <sys_ui_section caption="Stop Condition" display_value="Stop Condition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">0659093e47b93210992a14bf016d4371</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e59093e47b93210992a14bf016d4370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_sla_definition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">8259093e47b93210992a14bf016d433a</sys_ui_form>
+            <sys_ui_section caption="Reset Condition" display_value="Reset Condition" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="38d8af14533330100999ddeeff7b12e1">0a59093e47b93210992a14bf016d4368</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1777768_resmed_0_sla_definition</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8259093e47b93210992a14bf016d433a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1777768_resmed_0_sla_definition</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8259093e47b93210992a14bf016d433a</sys_update_name>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="SLM SLA" name="slm_sla">38d8af14533330100999ddeeff7b12e1</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
