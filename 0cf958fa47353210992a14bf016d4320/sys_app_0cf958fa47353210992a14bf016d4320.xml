@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>SNS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>24f958fa47353210992a14bf016d43b7</logo>
+        <menu/>
+        <name>ResMed Clinical IT Support Management</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1777768_resmed_0</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>IT Service Management platform for healthcare IT operations, managing incident response, problem resolution, change management, and service requests for clinical IT infrastructure supporting medical devices and healthcare systems.</short_description>
+        <source>x_1777768_resmed_0</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 07:47:37</sys_created_on>
+        <sys_id>0cf958fa47353210992a14bf016d4320</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 07:47:40</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=0cf958fa47353210992a14bf016d4320"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>ResMed.png</file_name>
+        <hash>0d4347bc7bb88e1e0353f5afab5c24267366170f6ddf8007d94b7f7e79198ae6</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>4350</size_bytes>
+        <size_compressed>4352</size_compressed>
+        <state>available</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 07:47:40</sys_created_on>
+        <sys_id>24f958fa47353210992a14bf016d43b7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 07:47:40</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>0cf958fa47353210992a14bf016d4320</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="ResMed.png" sys_id="24f958fa47353210992a14bf016d43b7">24f958fa47353210992a14bf016d43b7</sys_attachment>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 07:47:40</sys_created_on>
+        <sys_id>64f958fa47353210992a14bf016d43b7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5792</length>
+        <position>1</position>
+        <sys_attachment display_value="ResMed.png" sys_id="24f958fa47353210992a14bf016d43b7">24f958fa47353210992a14bf016d43b7</sys_attachment>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 07:47:40</sys_created_on>
+        <sys_id>28f958fa47353210992a14bf016d43b7</sys_id>
+    </sys_attachment_doc>
+</record_update>
