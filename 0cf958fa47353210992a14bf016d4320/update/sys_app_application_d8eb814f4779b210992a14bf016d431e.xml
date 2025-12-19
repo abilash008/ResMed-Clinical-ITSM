@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>IT Service Management platform for healthcare IT operations, managing incident response, problem resolution, change management, and service requests for clinical IT infrastructure supporting medical devices and healthcare systems.</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>admin,x_1777768_resmed_0.admin,ITSM Engineer</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-18 06:06:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d8eb814f4779b210992a14bf016d431e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ResMed Clinical ITSM</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_update_name>sys_app_application_d8eb814f4779b210992a14bf016d431e</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-18 06:06:58</sys_updated_on>
+        <title>ResMed Clinical ITSM</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

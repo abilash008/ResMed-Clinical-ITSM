@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="9882743e47f53210992a14bf016d433e" extends="task" label="Clinical Incident" max_length="40" name="x_1777768_resmed_0_clinical_incident" type="collection">
         <element label="Clinical Impact" max_length="200" name="clinical_impact" type="string"/>
-        <element label="Device Type" max_length="40" name="device_type" type="string"/>
+        <element label="Device Type" max_length="32" name="device_type" reference="x_1777768_resmed_0_clinical_device" type="reference"/>
         <element label="Requires Medical Review" max_length="40" name="requires_medical_review" type="boolean"/>
         <element choice="3" default="medium" label="Patient Risk Level" max_length="40" name="patient_risk_level" type="choice">
             <choice>
@@ -12,7 +12,7 @@
             </choice>
         </element>
         <element label="Device Serial" max_length="40" name="device_serial" type="string"/>
-        <element label="Hospital ID" max_length="40" name="hospital_id" type="string"/>
+        <element label="Hospital ID" max_length="32" name="hospital_id" reference="x_1777768_resmed_0_hospital" type="reference"/>
         <element label="Automated Alert ID" max_length="40" name="automated_alert_id" type="string"/>
     </element>
 </database>

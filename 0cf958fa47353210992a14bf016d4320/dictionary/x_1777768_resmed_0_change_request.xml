@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="651bfcbe47393210992a14bf016d430e" extends="task" label="Change Request" max_length="40" name="x_1777768_resmed_0_change_request" type="collection">
-        <element label="Affected Devices" max_length="40" name="affected_devices" type="string"/>
+        <element label="Affected Devices" max_length="40" name="affected_devices" reference="x_1777768_resmed_0_clinical_device" type="glide_list"/>
         <element label="Roll Back Plan" max_length="400" name="roll_back_plan" type="string"/>
         <element choice="1" label="Change Category" max_length="40" name="change_category" type="choice">
             <choice>
