@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b159c53e47b93210992a14bf016d4380" sys_domain="global" table="x_1777768_resmed_0_sla_definition" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>bd59c53e47b93210992a14bf016d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>1</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>3559c53e47b93210992a14bf016d4383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>target</element>
+            <position>2</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>7d59c53e47b93210992a14bf016d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>collection</element>
+            <position>3</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>bd59c53e47b93210992a14bf016d4381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flow</element>
+            <position>4</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>f559c53e47b93210992a14bf016d4389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workflow</element>
+            <position>5</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>f959c53e47b93210992a14bf016d4386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>enable_logging</element>
+            <position>6</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>7159c53e47b93210992a14bf016d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>7</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>7559c53e47b93210992a14bf016d4385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>7959c53e47b93210992a14bf016d438d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>9</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>fd59c53e47b93210992a14bf016d4383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration_type</element>
+            <position>10</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>3959c53e47b93210992a14bf016d438b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration</element>
+            <position>11</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>7959c53e47b93210992a14bf016d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relative_duration_works_on</element>
+            <position>12</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>b159c53e47b93210992a14bf016d438a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>schedule_source</element>
+            <position>13</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>b559c53e47b93210992a14bf016d4387</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>schedule</element>
+            <position>14</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>3d59c53e47b93210992a14bf016d4388</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>schedule_source_field</element>
+            <position>15</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>3159c53e47b93210992a14bf016d4386</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>timezone_source</element>
+            <position>16</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>3559c53e47b93210992a14bf016d438e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>timezone</element>
+            <position>17</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>b959c53e47b93210992a14bf016d4384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>18</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_id>f159c53e47b93210992a14bf016d438c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1777768_resmed_0_sla_definition</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b159c53e47b93210992a14bf016d4380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1777768_resmed_0_sla_definition</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+            <sys_update_name>sys_ui_section_b159c53e47b93210992a14bf016d4380</sys_update_name>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">92d214639860221055904c91e2b6543b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_ui_section_b159c53e47b93210992a14bf016d4380</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b159c53e47b93210992a14bf016d4380" sys_domain="global" table="x_1777768_resmed_0_sla_definition" version="3" view="workspace"><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>bd59c53e47b93210992a14bf016d438c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type</element><position>1</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>3559c53e47b93210992a14bf016d4383</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>target</element><position>2</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>7d59c53e47b93210992a14bf016d438a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>collection</element><position>3</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>bd59c53e47b93210992a14bf016d4381</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>flow</element><position>4</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>f559c53e47b93210992a14bf016d4389</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>workflow</element><position>5</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>f959c53e47b93210992a14bf016d4386</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>enable_logging</element><position>6</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>7159c53e47b93210992a14bf016d4388</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active</element><position>7</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>7559c53e47b93210992a14bf016d4385</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>8</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>7959c53e47b93210992a14bf016d438d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sys_scope</element><position>9</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>fd59c53e47b93210992a14bf016d4383</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>duration_type</element><position>10</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>3959c53e47b93210992a14bf016d438b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>duration</element><position>11</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>7959c53e47b93210992a14bf016d4382</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>relative_duration_works_on</element><position>12</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>b159c53e47b93210992a14bf016d438a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>schedule_source</element><position>13</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>b559c53e47b93210992a14bf016d4387</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>schedule</element><position>14</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>3d59c53e47b93210992a14bf016d4388</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>schedule_source_field</element><position>15</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>3159c53e47b93210992a14bf016d4386</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>timezone_source</element><position>16</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>3559c53e47b93210992a14bf016d438e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>timezone</element><position>17</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>b959c53e47b93210992a14bf016d4384</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>18</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_id>f159c53e47b93210992a14bf016d438c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_sla_definition" sys_domain="global" view="92d214639860221055904c91e2b6543b">b159c53e47b93210992a14bf016d4380</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1777768_resmed_0_sla_definition</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b159c53e47b93210992a14bf016d4380</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1777768_resmed_0_sla_definition</sys_name><sys_overrides/><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_update_name>sys_ui_section_b159c53e47b93210992a14bf016d4380</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:44</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace" name="workspace">92d214639860221055904c91e2b6543b</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-493449252</payload_hash>
+        <record_name>SLA Definition</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 11:14:44</sys_created_on>
+        <sys_id>3d59c53e47b93210992a14bf016d4393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b2c0504340000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 11:14:44</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fd59c53e59b93210215010b9e897fe92</update_guid>
+        <update_guid_history>fd59c53e59b93210215010b9e897fe92:-493449252</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-22 07:15:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>a504d4503e80484182347f385f540299</sys_id>
+        <sys_metadata>b159c53e47b93210992a14bf016d4380</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777768_resmed_0_sla_definition</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent display_value="">5959853e47b93210992a14bf016d43d3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b159c53e47b93210992a14bf016d4380</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b159c53e47b93210992a14bf016d4380">3d59c53e47b93210992a14bf016d4393</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-22 07:15:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

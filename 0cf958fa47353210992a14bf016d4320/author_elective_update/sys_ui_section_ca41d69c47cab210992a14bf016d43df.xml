@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="ca41d69c47cab210992a14bf016d43df" sys_domain="global" table="x_1777768_resmed_0_clinical_incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>0</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 08:20:00</sys_created_on>
+            <sys_id>3a415a9c47cab210992a14bf016d437c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1777768_resmed_0_clinical_incident" sys_domain="global" view="Default view">ca41d69c47cab210992a14bf016d43df</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 08:20:00</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1777768_resmed_0_clinical_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 08:19:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ca41d69c47cab210992a14bf016d43df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1777768_resmed_0_clinical_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+            <sys_update_name>sys_ui_section_ca41d69c47cab210992a14bf016d43df</sys_update_name>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 08:19:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_ui_section_ca41d69c47cab210992a14bf016d43df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="ca41d69c47cab210992a14bf016d43df" sys_domain="global" table="x_1777768_resmed_0_clinical_incident" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>cxs_table_search.xml</element><position>0</position><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-22 08:20:00</sys_created_on><sys_id>3a415a9c47cab210992a14bf016d437c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter><sys_ui_section caption="New Section" display_value="New Section" name="x_1777768_resmed_0_clinical_incident" sys_domain="global" view="Default view">ca41d69c47cab210992a14bf016d43df</sys_ui_section><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-22 08:20:00</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1777768_resmed_0_clinical_incident</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-22 08:19:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ca41d69c47cab210992a14bf016d43df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1777768_resmed_0_clinical_incident</sys_name><sys_overrides/><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_update_name>sys_ui_section_ca41d69c47cab210992a14bf016d43df</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-22 08:19:57</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>741145919</payload_hash>
+        <record_name>Clinical Incident</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-22 08:20:00</sys_created_on>
+        <sys_id>f2415a9c47cab210992a14bf016d4380</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b4524d5bd0000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-22 08:20:00</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>76415a9c85cab210567c2a9875cb187f</update_guid>
+        <update_guid_history>76415a9c85cab210567c2a9875cb187f:741145919</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-22 08:23:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2b59f191cd744d4c89bca5f4810d0610</sys_id>
+        <sys_metadata>ca41d69c47cab210992a14bf016d43df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent display_value="Clinical Incident">9882743e47f53210992a14bf016d433e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_ui_section_ca41d69c47cab210992a14bf016d43df</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_ca41d69c47cab210992a14bf016d43df">f2415a9c47cab210992a14bf016d4380</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-22 08:23:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

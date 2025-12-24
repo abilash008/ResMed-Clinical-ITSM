@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 11:14:47</sys_created_on>
+        <sys_id>ee59093e47b93210992a14bf016d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777768_resmed_0_sla_definition.x_1777768_resmed_0.admin</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_security_acl display_value="x_1777768_resmed_0_sla_definition">2e59093e47b93210992a14bf016d43f9</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ee59093e47b93210992a14bf016d43fe</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 11:14:47</sys_updated_on>
+        <sys_user_role display_value="x_1777768_resmed_0.admin" name="x_1777768_resmed_0.admin">40f958fa47353210992a14bf016d4333</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_security_acl_role_ee59093e47b93210992a14bf016d43fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:47</sys_created_on><sys_id>ee59093e47b93210992a14bf016d43fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1777768_resmed_0_sla_definition.x_1777768_resmed_0.admin</sys_name><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_security_acl display_value="x_1777768_resmed_0_sla_definition">2e59093e47b93210992a14bf016d43f9</sys_security_acl><sys_update_name>sys_security_acl_role_ee59093e47b93210992a14bf016d43fe</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:47</sys_updated_on><sys_user_role display_value="x_1777768_resmed_0.admin" name="x_1777768_resmed_0.admin">40f958fa47353210992a14bf016d4333</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-859153222</payload_hash>
+        <record_name>x_1777768_resmed_0_sla_definition.x_1777768_resmed_0.admin</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 11:14:47</sys_created_on>
+        <sys_id>a259493e47b93210992a14bf016d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b2c050f3a0000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 11:14:47</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>6259493efdb932109e56f6f32f83b303</update_guid>
+        <update_guid_history>6259493efdb932109e56f6f32f83b303:-859153222</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1777768_resmed_0_sla_definition.x_1777768_resmed_0.admin">5582c210478ab210992a14bf016d43ed</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-22 07:15:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>07a74c6136004f258142d58fecd4ccc9</sys_id>
+        <sys_metadata>ee59093e47b93210992a14bf016d43fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777768_resmed_0_sla_definition.x_1777768_resmed_0.admin</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent display_value="">2e59093e47b93210992a14bf016d43f9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ee59093e47b93210992a14bf016d43fe</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ee59093e47b93210992a14bf016d43fe">a259493e47b93210992a14bf016d4304</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-22 07:15:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

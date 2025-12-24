@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="eede8f1847c2f210992a14bf016d4303" sys_domain="global" table="x_1777768_resmed_0_problem" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 12:48:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ade8f1847c2f210992a14bf016d4360</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_problem" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">eede8f1847c2f210992a14bf016d4303</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">5957b07e47f53210992a14bf016d4336</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 12:48:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 12:48:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aede8f1847c2f210992a14bf016d4361</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_problem" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">eede8f1847c2f210992a14bf016d4303</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">eede4f1847c2f210992a14bf016d43fc</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 12:48:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 12:48:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eade8f1847c2f210992a14bf016d4368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_problem" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">eede8f1847c2f210992a14bf016d4303</sys_ui_form>
+            <sys_ui_section caption="Analysis Information" display_value="Analysis Information" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">a2de4f1847c2f210992a14bf016d43ff</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 12:48:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 12:48:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ede8f1847c2f210992a14bf016d436f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_problem" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">eede8f1847c2f210992a14bf016d4303</sys_ui_form>
+            <sys_ui_section caption="Resolution Information" display_value="Resolution Information" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">aade8f1847c2f210992a14bf016d4300</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 12:48:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 12:48:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>66de8f1847c2f210992a14bf016d4377</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1777768_resmed_0_problem" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">eede8f1847c2f210992a14bf016d4303</sys_ui_form>
+            <sys_ui_section caption="Other Information" display_value="Other Information" name="x_1777768_resmed_0_problem" sys_domain="global" view="Default view">a2de8f1847c2f210992a14bf016d4302</sys_ui_section>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 12:48:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1777768_resmed_0_problem</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-22 12:48:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eede8f1847c2f210992a14bf016d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1777768_resmed_0_problem</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+            <sys_update_name>sys_ui_form_sections_eede8f1847c2f210992a14bf016d4303</sys_update_name>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-22 12:48:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="9882743e47f53210992a14bf016d433e" extends="task" label="Clinical Incident" max_length="40" name="x_1777768_resmed_0_clinical_incident" type="collection">
+    <element audit="true" db_object_id="9882743e47f53210992a14bf016d433e" extends="task" label="Clinical Incident" max_length="40" name="x_1777768_resmed_0_clinical_incident" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Resolved" max_length="40" name="u_resolved_at" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Clinical Incident" max_length="32" name="u_clinical_incident" reference="x_1777768_resmed_0_clinical_incident" type="reference"/>
+        <element attributes="encode_utf8=false" label="Clinical Change" max_length="32" name="u_clinical_change" reference="x_1777768_resmed_0_change_request" type="reference"/>
         <element label="Clinical Impact" max_length="200" name="clinical_impact" type="string"/>
-        <element label="Device Type" max_length="32" name="device_type" reference="x_1777768_resmed_0_clinical_device" type="reference"/>
+        <element attributes="encode_utf8=false" label="Caller" mandatory="true" max_length="32" name="u_caller_id" reference="sys_user" type="reference"/>
         <element label="Requires Medical Review" max_length="40" name="requires_medical_review" type="boolean"/>
+        <element choice="1" label="On Hold Reason" max_length="40" name="on_hold_reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Caller" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Awaiting Vendor" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Awaiting Change" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Awaiting Problem" sequence="1" value="2"/>
+            </choice>
+        </element>
         <element choice="3" default="medium" label="Patient Risk Level" max_length="40" name="patient_risk_level" type="choice">
             <choice>
                 <element inactive_on_update="false" label="High" sequence="1" value="high"/>
@@ -11,8 +22,21 @@
                 <element inactive_on_update="false" label="Medium" sequence="2" value="medium"/>
             </choice>
         </element>
+        <element attributes="encode_utf8=false" label="Clinical Problem" max_length="32" name="u_clinical_problem" reference="x_1777768_resmed_0_problem" type="reference"/>
+        <element choice="3" default="1" label="Incident State" max_length="40" name="incident_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Resolved" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="On Hold" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="5"/>
+            </choice>
+        </element>
         <element label="Device Serial" max_length="40" name="device_serial" type="string"/>
+        <element label="Device Name" max_length="32" name="device_name" reference="x_1777768_resmed_0_clinical_device" type="reference"/>
         <element label="Hospital ID" max_length="32" name="hospital_id" reference="x_1777768_resmed_0_hospital" type="reference"/>
+        <element attributes="encode_utf8=false" label="Resolved by" max_length="32" name="u_resolved_by" reference="sys_user" type="reference"/>
         <element label="Automated Alert ID" max_length="40" name="automated_alert_id" type="string"/>
     </element>
 </database>

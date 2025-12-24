@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <filter_extension/>
+        <is_df_table>false</is_df_table>
+        <is_extendable>false</is_extendable>
+        <label>SLA Definition</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_1777768_resmed_0_sla_definition</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="SLA Definition" name="contract_sla">6d2854e798e0221055904c91e2b65455</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 11:14:42</sys_created_on>
+        <sys_id>5959853e47b93210992a14bf016d43d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resmed 0 SLA Definition</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_update_name>sys_db_object_5959853e47b93210992a14bf016d43d3</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 11:14:42</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_db_object_5959853e47b93210992a14bf016d43d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>SLA Definition</label><live_feed_enabled>false</live_feed_enabled><name>x_1777768_resmed_0_sla_definition</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="SLA Definition" name="contract_sla">6d2854e798e0221055904c91e2b65455</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-17 11:14:42</sys_created_on><sys_id>5959853e47b93210992a14bf016d43d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Resmed 0 SLA Definition</sys_name><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_update_name>sys_db_object_5959853e47b93210992a14bf016d43d3</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-17 11:14:42</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1433067126</payload_hash>
+        <record_name>SLA Definition</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-17 11:14:42</sys_created_on>
+        <sys_id>5d59c53e47b93210992a14bf016d433e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b2c04fc3d0000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-17 11:14:42</sys_updated_on>
+        <type>Table</type>
+        <update_guid>9d59c53ebcb93210a6df159bd9f7a83d</update_guid>
+        <update_guid_history>9d59c53ebcb93210a6df159bd9f7a83d:1433067126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-22 07:15:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>3f9855622f9d40dc9f09d70d8b8ebac4</sys_id>
+        <sys_metadata>5959853e47b93210992a14bf016d43d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Resmed 0 SLA Definition</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_db_object_5959853e47b93210992a14bf016d43d3</sys_update_name>
+        <sys_update_version display_value="sys_db_object_5959853e47b93210992a14bf016d43d3">5d59c53e47b93210992a14bf016d433e</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-22 07:15:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

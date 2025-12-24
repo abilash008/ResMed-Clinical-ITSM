@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="3857f0b647393210992a14bf016d4322" extends="task" label="Clinical Problem" max_length="40" name="x_1777768_resmed_0_problem" type="collection">
+    <element audit="true" db_object_id="3857f0b647393210992a14bf016d4322" extends="task" label="Clinical Problem" max_length="40" name="x_1777768_resmed_0_problem" type="collection">
         <element display="true" label="Root Cause Device Type" max_length="40" name="root_cause_device_type" type="string"/>
+        <element label="Fix notes" max_length="65536" name="u_fix_notes" type="html"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolved" max_length="40" name="u_resolved_at" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Opened" max_length="40" name="u_opened_at" type="glide_date_time"/>
+        <element attributes="encode_utf8=false" label="Original Task" max_length="32" name="u_original_task" reference="task" type="reference"/>
+        <element attributes="encode_utf8=false" label="Resolved by" max_length="32" name="u_resolved_by" reference="sys_user" type="reference"/>
         <element choice="1" label="Compliance Impact" max_length="40" name="compliance_impact" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Minor" sequence="1" value="minor"/>
                 <element inactive_on_update="false" label="Major" sequence="0" value="major"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Confirmed" max_length="40" name="u_confirmed_at" type="glide_date_time"/>
+        <element choice="3" label="Problem State" max_length="40" name="problem_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fix in Progress" sequence="3" value="104"/>
+                <element inactive_on_update="false" label="Root Cause Analysis" sequence="2" value="103"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="101"/>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="106"/>
+                <element inactive_on_update="false" label="Assess" sequence="1" value="102"/>
+                <element inactive_on_update="false" label="Resolved" sequence="4" value="105"/>
+            </choice>
+        </element>
         <element label="Known Error Documented" max_length="40" name="known_error_documented" type="boolean"/>
         <element label="Affected Device Count" max_length="40" name="affected_device_count" type="integer"/>
+        <element label="Cause notes" max_length="65536" name="u_cause_notes" type="html"/>
+        <element label="Workaround" max_length="65536" name="u_workaround" type="html"/>
+        <element attributes="encode_utf8=false" label="Opened by" max_length="32" name="u_opened_by" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Device" max_length="32" name="u_device_name" reference="x_1777768_resmed_0_clinical_device" type="reference"/>
+        <element attributes="encode_utf8=false" label="Primary Known Error Article" max_length="32" name="u_primary_known_error_article" reference="kb_template_known_error_article" type="reference"/>
+        <element attributes="encode_utf8=false" label="Confirmed by" max_length="32" name="u_confirmed_by" reference="sys_user" type="reference"/>
     </element>
 </database>
