@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow">
+    <sys_process_flow action="DELETE">
+        <active>true</active>
+        <condition table="x_1777768_resmed_0_problem">problem_state=101^EQ<item display_value="New" endquery="false" field="problem_state" goto="false" newquery="false" operator="=" or="false" value="101"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description/>
+        <label>new</label>
+        <name>New</name>
+        <order>100</order>
+        <sys_class_name>sys_process_flow</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-30 09:58:40</sys_created_on>
+        <sys_id>cd643f3a478afa10992a14bf016d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_update_name>sys_process_flow_cd643f3a478afa10992a14bf016d4347</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-30 09:58:40</sys_updated_on>
+        <table>x_1777768_resmed_0_problem</table>
+    </sys_process_flow>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_process_flow_cd643f3a478afa10992a14bf016d4347</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_process_flow"><sys_process_flow action="INSERT_OR_UPDATE"><active>true</active><condition table="x_1777768_resmed_0_problem">problem_state=101^EQ<item display_value="New" endquery="false" field="problem_state" goto="false" newquery="false" operator="=" or="false" value="101"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description/><label>new</label><name>New</name><order>100</order><sys_class_name>sys_process_flow</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-30 09:58:40</sys_created_on><sys_id>cd643f3a478afa10992a14bf016d4347</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New</sys_name><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_update_name>sys_process_flow_cd643f3a478afa10992a14bf016d4347</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-30 09:58:40</sys_updated_on><table>x_1777768_resmed_0_problem</table></sys_process_flow></record_update>]]></payload>
+        <payload_hash>1667349486</payload_hash>
+        <record_name>New</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-30 09:58:40</sys_created_on>
+        <sys_id>d694b37a478afa10992a14bf016d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b6eb208f00000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-30 09:58:40</sys_updated_on>
+        <type>Flow Formatter</type>
+        <update_guid>d2947f3abe8afa1040ab6324053c3d2e</update_guid>
+        <update_guid_history>d2947f3abe8afa1040ab6324053c3d2e:1667349486</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-30 10:03:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_process_flow">sys_process_flow</sys_db_object>
+        <sys_id>5c12f09d868743e481d5ae9efed54b81</sys_id>
+        <sys_metadata>cd643f3a478afa10992a14bf016d4347</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_process_flow_cd643f3a478afa10992a14bf016d4347</sys_update_name>
+        <sys_update_version display_value="sys_process_flow_cd643f3a478afa10992a14bf016d4347">d694b37a478afa10992a14bf016d4317</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-30 10:03:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

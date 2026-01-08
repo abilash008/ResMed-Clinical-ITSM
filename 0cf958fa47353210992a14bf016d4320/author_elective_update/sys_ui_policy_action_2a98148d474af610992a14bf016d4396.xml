@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>clinical_impact</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-24 07:29:02</sys_created_on>
+        <sys_id>2a98148d474af610992a14bf016d4396</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>clinical_impact</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_update_name>sys_ui_policy_action_2a98148d474af610992a14bf016d4396</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-24 07:31:19</sys_updated_on>
+        <table>x_1777768_resmed_0_clinical_incident</table>
+        <ui_policy display_value="Show_Clinical_Impact_Fields">07b65889474af610992a14bf016d43b2</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=2a98148d474af610992a14bf016d4396"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_ui_policy_action_2a98148d474af610992a14bf016d4396</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>clinical_impact</field><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-24 07:29:02</sys_created_on><sys_id>2a98148d474af610992a14bf016d4396</sys_id><sys_mod_count>1</sys_mod_count><sys_name>clinical_impact</sys_name><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_update_name>sys_ui_policy_action_2a98148d474af610992a14bf016d4396</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-24 07:31:19</sys_updated_on><table>x_1777768_resmed_0_clinical_incident</table><ui_policy display_value="Show_Clinical_Impact_Fields">07b65889474af610992a14bf016d43b2</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=2a98148d474af610992a14bf016d4396"/></record_update>]]></payload>
+        <payload_hash>-1520157769</payload_hash>
+        <record_name>clinical_impact</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-24 07:31:19</sys_created_on>
+        <sys_id>c5595ccd474af610992a14bf016d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b4f44fae60000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-24 07:31:19</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>05595ccda34af610bd3bc645578b1104</update_guid>
+        <update_guid_history>05595ccda34af610bd3bc645578b1104:-1520157769,bbc8d48da14af610db6f5cdd5dd82d52:-1174971141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-31 10:08:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>62f96cd89d9442508f40d29418091900</sys_id>
+        <sys_metadata>2a98148d474af610992a14bf016d4396</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>clinical_impact</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent display_value="Show_Clinical_Medical_Review_Field">07b65889474af610992a14bf016d43b2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_2a98148d474af610992a14bf016d4396</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_2a98148d474af610992a14bf016d4396">c5595ccd474af610992a14bf016d4305</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-31 10:08:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

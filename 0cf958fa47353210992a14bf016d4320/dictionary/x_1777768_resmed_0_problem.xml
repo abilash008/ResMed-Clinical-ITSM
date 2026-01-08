@@ -13,7 +13,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Confirmed" max_length="40" name="u_confirmed_at" type="glide_date_time"/>
-        <element choice="3" label="Problem State" max_length="40" name="problem_state" type="choice">
+        <element choice="3" default="101" label="Problem State" max_length="40" name="problem_state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Fix in Progress" sequence="3" value="104"/>
                 <element inactive_on_update="false" label="Root Cause Analysis" sequence="2" value="103"/>

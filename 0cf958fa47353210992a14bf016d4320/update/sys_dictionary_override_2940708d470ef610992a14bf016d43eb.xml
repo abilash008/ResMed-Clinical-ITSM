@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value/>
+        <default_value_override>false</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>short_description</element>
+        <mandatory>true</mandatory>
+        <mandatory_override>true</mandatory_override>
+        <name>x_1777768_resmed_0_clinical_incident</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-24 09:11:33</sys_created_on>
+        <sys_id>2940708d470ef610992a14bf016d43eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_update_name>sys_dictionary_override_2940708d470ef610992a14bf016d43eb</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-24 09:11:33</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

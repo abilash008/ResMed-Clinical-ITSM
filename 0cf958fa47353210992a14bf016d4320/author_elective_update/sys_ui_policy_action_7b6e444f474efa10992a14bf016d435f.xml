@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>impact</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-30 11:55:19</sys_created_on>
+        <sys_id>7b6e444f474efa10992a14bf016d435f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>impact</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7b6e444f474efa10992a14bf016d435f</sys_update_name>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-30 12:06:55</sys_updated_on>
+        <table>x_1777768_resmed_0_change_request</table>
+        <ui_policy display_value="Show_Change_Impact">ddfb377a47cafa10992a14bf016d4369</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=7b6e444f474efa10992a14bf016d435f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</application>
+        <file_path/>
+        <instance_id>23a26e33fbd0aed01feef633beefdca8</instance_id>
+        <instance_name>dev306119</instance_name>
+        <name>sys_ui_policy_action_7b6e444f474efa10992a14bf016d435f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>impact</field><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>Abilash_3x11</sys_created_by><sys_created_on>2025-12-30 11:55:19</sys_created_on><sys_id>7b6e444f474efa10992a14bf016d435f</sys_id><sys_mod_count>2</sys_mod_count><sys_name>impact</sys_name><sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package><sys_policy/><sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope><sys_update_name>sys_ui_policy_action_7b6e444f474efa10992a14bf016d435f</sys_update_name><sys_updated_by>Abilash_3x11</sys_updated_by><sys_updated_on>2025-12-30 12:06:55</sys_updated_on><table>x_1777768_resmed_0_change_request</table><ui_policy display_value="Show_Change_Impact">ddfb377a47cafa10992a14bf016d4369</ui_policy><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=7b6e444f474efa10992a14bf016d435f"/></record_update>]]></payload>
+        <payload_hash>389546682</payload_hash>
+        <record_name>impact</record_name>
+        <reverted_from/>
+        <source>0ac0307a47f53210992a14bf016d43f6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-30 12:06:55</sys_created_on>
+        <sys_id>01f19407478efa10992a14bf016d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b6f2774e40000001</sys_recorded_at>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-30 12:06:55</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>4df19407ec8efa106d6c2f9cfd054a23</update_guid>
+        <update_guid_history>4df19407ec8efa106d6c2f9cfd054a23:389546682,faf09083b78efa10ef53b3f83686b496:-368587294,fa4fcc8f1b4efa109580551a1be486ba:829622984</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Abilash_3x11</sys_created_by>
+        <sys_created_on>2025-12-30 12:08:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>05354a68d46a4a38801fac46cafcc564</sys_id>
+        <sys_metadata>7b6e444f474efa10992a14bf016d435f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>impact</sys_name>
+        <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+        <sys_scope_delete display_value="">00c6d29d05d84cb0800c518f99aac639</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_7b6e444f474efa10992a14bf016d435f</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_7b6e444f474efa10992a14bf016d435f">01f19407478efa10992a14bf016d4325</sys_update_version>
+        <sys_updated_by>Abilash_3x11</sys_updated_by>
+        <sys_updated_on>2025-12-30 12:08:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

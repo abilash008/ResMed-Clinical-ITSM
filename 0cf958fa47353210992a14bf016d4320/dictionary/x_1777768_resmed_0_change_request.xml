@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="651bfcbe47393210992a14bf016d430e" extends="task" label="Change Request" max_length="40" name="x_1777768_resmed_0_change_request" type="collection">
-        <element label="Affected Devices" max_length="40" name="affected_devices" reference="x_1777768_resmed_0_clinical_device" type="glide_list"/>
-        <element label="Roll Back Plan" max_length="400" name="roll_back_plan" type="string"/>
+    <element audit="true" db_object_id="651bfcbe47393210992a14bf016d430e" extends="task" label="Change Request" max_length="40" name="x_1777768_resmed_0_change_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Planned start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element label="Affected Devices" max_length="40" name="affected_devices" reference="x_1777768_resmed_0_clinical_device" type="reference"/>
+        <element label="Backout plan" max_length="4000" name="roll_back_plan" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned end date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Risk and impact analysis" max_length="4000" name="risk_impact_analysis" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Test plan" max_length="4000" name="test_plan" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Close code" max_length="40" name="close_code" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Successful" sequence="0" value="successful"/>
+                <element inactive_on_update="false" label="Unsuccessful" sequence="2" value="unsuccessful"/>
+                <element inactive_on_update="false" label="Successful with issues" sequence="1" value="successful issues"/>
+            </choice>
+        </element>
         <element choice="1" label="Change Category" max_length="40" name="change_category" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Firmware" sequence="1" value="firmware"/>
@@ -11,6 +22,21 @@
             </choice>
         </element>
         <element label="Blackout Window" max_length="40" name="blackout_window" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="new" label="Change State" max_length="40" name="u_change_state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Implement" sequence="4" value="implement"/>
+                <element inactive_on_update="false" label="Canceled" sequence="7" value="canceled"/>
+                <element inactive_on_update="false" label="Schedule" sequence="3" value="schedule"/>
+                <element inactive_on_update="false" label="Closed" sequence="6" value="closed"/>
+                <element inactive_on_update="false" label="New" sequence="0" value="new"/>
+                <element inactive_on_update="false" label="Authorize" sequence="2" value="authorize"/>
+                <element inactive_on_update="false" label="Review" sequence="5" value="review"/>
+                <element inactive_on_update="false" label="Assess" sequence="1" value="assess"/>
+            </choice>
+        </element>
         <element label="Compliance Review Required" max_length="40" name="compliance_review_required" type="boolean"/>
+        <element attributes="encode_utf8=false" label="Requested by" max_length="32" name="u_requested_by" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Justification" max_length="4000" name="justification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Implementation plan" max_length="4000" name="implementation_plan" type="string"/>
     </element>
 </database>

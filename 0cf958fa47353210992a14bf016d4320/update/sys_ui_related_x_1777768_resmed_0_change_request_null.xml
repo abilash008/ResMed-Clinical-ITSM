@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1777768_resmed_0_change_request" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>task_ci.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>cc6ba7b6474afa10992a14bf016d4347</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_cmdb_ci_service.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>446ba7b6474afa10992a14bf016d4348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>c86ba7b6474afa10992a14bf016d4348</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>change_task.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>406ba7b6474afa10992a14bf016d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>problem.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>c46ba7b6474afa10992a14bf016d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>incident.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>4c6ba7b6474afa10992a14bf016d4349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>c06ba7b6474afa10992a14bf016d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Change Request - Default view" name="x_1777768_resmed_0_change_request" related_list="NULL" sys_domain="global" view="Default view">8c6ba7b6474afa10992a14bf016d4346</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>task_outage.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_id>486ba7b6474afa10992a14bf016d434a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Change Request - Default view</calculated_name>
+            <filter/>
+            <name>x_1777768_resmed_0_change_request</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>Abilash_3x11</sys_created_by>
+            <sys_created_on>2025-12-30 09:18:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c6ba7b6474afa10992a14bf016d4346</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Change Request - Default view</sys_name>
+            <sys_package display_value="ResMed Clinical IT Support Management" source="x_1777768_resmed_0">0cf958fa47353210992a14bf016d4320</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ResMed Clinical IT Support Management">0cf958fa47353210992a14bf016d4320</sys_scope>
+            <sys_update_name>sys_ui_related_x_1777768_resmed_0_change_request_null</sys_update_name>
+            <sys_updated_by>Abilash_3x11</sys_updated_by>
+            <sys_updated_on>2025-12-30 09:18:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
